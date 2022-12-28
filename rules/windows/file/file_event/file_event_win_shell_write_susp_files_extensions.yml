@@ -36,7 +36,11 @@ detection:
             - '.hta'
             - '.iso'
             - '.dll'
-    condition: selection
+    filter_1:
+        ParentImage:
+            - 'C:\Windows\SysWOW64\msiexec.exe'
+            - 'C:\Windows\System32\msiexec.exe'
+    condition: selection and not 1 of filter_*
 falsepositives:
     - Unknown
 level: high
