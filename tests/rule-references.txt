@@ -4029,3 +4029,17 @@ https://strontic.github.io/xcyclopedia/library/aclui.dll-F883E9CA757B622B032FDCA
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4706
 https://devco.re/blog/2024/08/23/streaming-vulnerabilities-from-windows-kernel-proxying-to-kernel-part1-en/
 https://web.archive.org/web/20220519091349/https://fatrodzianko.com/2020/02/15/dll-side-loading-appverif-exe/
+https://learn.microsoft.com/en-us/windows/win32/debug/configuring-automatic-debugging
+https://blogs.vmware.com/security/2023/11/jupyter-rising-an-update-on-jupyter-infostealer.html
+https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-privilege-escalation/aws-rds-privesc#rds-modifydbinstance
+https://www.sans.org/blog/protecting-privileged-domain-accounts-lm-hashes-the-good-the-bad-and-the-ugly/
+https://thecyberexpress.com/rogue-rdp-files-used-in-ukraine-cyberattacks/
+https://learn.microsoft.com/en-us/windows/win32/shell/shell-and-managed-code
+https://learn.microsoft.com/en-us/troubleshoot/windows-server/networking/netsh-advfirewall-firewall-control-firewall-behavior
+https://developer.broadcom.com/xapis/esxcli-command-reference/7.0.0/namespace/esxcli_system.html
+https://www.intrinsec.com/alphv-ransomware-gang-analysis/?cn-reloaded=1
+https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-srvs/accf23b0-0f57-441c-9185-43041f1b0ee9
+https://app.any.run/tasks/1efb3ed4-cc0f-4690-a0ed-24516809bc72/
+https://labs.nettitude.com/blog/introducing-sharpwsus/
+https://boinc.berkeley.edu/
+https://web.archive.org/web/20230726144748/https://blog.thickmints.dev/mintsights/detecting-rogue-rdp/
