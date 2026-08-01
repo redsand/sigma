@@ -185,6 +185,7 @@ https://bi-zone.medium.com/hunting-down-ms-exchange-attacks-part-1-proxylogon-cv
 https://bi-zone.medium.com/hunting-for-zerologon-f65c61586382
 https://bidouillesecurity.com/disable-windows-defender-in-powershell/
 https://bidouillesecurity.com/disable-windows-defender-in-powershell/#DisableAntiSpyware
+https://blackpointcyber.com/blog/racing-to-exploit-centrestacks-cve-2025-30406/
 https://blackpointcyber.com/resources/blog/breaking-through-the-screen/
 https://blog.3or.de/hunting-dns-server-level-plugin-dll-injection.html
 https://blog.3or.de/mimilib-dhcp-server-callout-dll-injection.html
@@ -454,6 +455,7 @@ https://docs.aws.amazon.com/AmazonS3/latest/userguide/setting-repl-config-perm-o
 https://docs.aws.amazon.com/awscloudtrail/latest/userguide/best-practices-security.html
 https://docs.aws.amazon.com/AWSEC2/latest/APIReference/API_DisableEbsEncryptionByDefault.html
 https://docs.aws.amazon.com/AWSEC2/latest/APIReference/API_ImportKeyPair.html
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-identity-roles.html
 https://docs.aws.amazon.com/cli/latest/reference/securityhub/
 https://docs.aws.amazon.com/config/latest/developerguide/cloudtrail-log-files-for-aws-config.html
 https://docs.aws.amazon.com/efs/latest/ug/API_DeleteFileSystem.html
@@ -478,6 +480,7 @@ https://docs.aws.amazon.com/vm-import/latest/userguide/vmexport.html#export-inst
 https://docs.djangoproject.com/en/1.11/ref/exceptions/
 https://docs.djangoproject.com/en/1.11/topics/logging/#django-security
 https://docs.fortinet.com/document/fortigate/7.6.4/fortios-log-message-reference/44546/44546-logid-event-config-attr
+https://docs.fortinet.com/document/fortigate/7.6.4/fortios-log-message-reference/44547/44547-logid-event-config-objattr
 https://docs.github.com/en/actions/hosting-your-own-runners/about-self-hosted-runners#about-self-hosted-runners
 https://docs.github.com/en/code-security/dependabot/dependabot-alerts/about-dependabot-alerts
 https://docs.github.com/en/enterprise-cloud@latest/admin/monitoring-activity-in-your-enterprise/reviewing-audit-logs-for-your-enterprise/audit-log-events-for-your-enterprise
@@ -796,6 +799,7 @@ https://github.com/0xdeadbeefJERKY/PowerSploit/blob/8690399ef70d2cad10213575ac67
 https://github.com/0xf4n9x/CVE-2022-46169
 https://github.com/0xorOne/nuclei-templates/blob/2fef4270ec6e5573d0a1732cb18bcfc4b1580a88/http/cves/2023/CVE-2023-46747.yaml
 https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks/blob/7b8935fe4c82cb64d61343de1a8b2e38dd968534/handbooks/10_post_exploitation.md
+https://github.com/0xthirteen/SharpMove/
 https://github.com/1337Rin/Swag-PSO
 https://github.com/1N3/Sn1per
 https://github.com/3CORESec/MAL-CL/tree/master/Descriptors/Other/Advanced%20IP%20Scanner
@@ -828,6 +832,7 @@ https://github.com/apache/spark/pull/36315/files
 https://github.com/api0cradle/LOLBAS/blob/d148d278f5f205ce67cfaf49afdfb68071c7252a/OSScripts/pester.md
 https://github.com/arget13/DDexec
 https://github.com/Arno0x/DNSExfiltrator
+https://github.com/Arno0x/DNSExfiltrator/
 https://github.com/Arno0x/PowerShellScripts/blob/a6b7d5490fbf0b20f91195838f3a11156724b4f7/proxyTunnel.ps1
 https://github.com/assetnote/exploits/tree/main/citrix/CVE-2023-4966
 https://github.com/audibleblink/xordump
@@ -878,6 +883,7 @@ https://github.com/CheraghiMilad/bypass-Neo23x0-auditd-config/blob/f1c478a37911a
 https://github.com/CICADA8-Research/RemoteKrbRelay
 https://github.com/CICADA8-Research/RemoteKrbRelay/blob/19ec76ba7aa50c2722b23359bc4541c0a9b2611c/Exploit/RemoteKrbRelay/Relay/Attacks/RemoteRegistry.cs#L31-L40
 https://github.com/Cisco-Talos/IOCs/tree/80caca039988252fbb3f27a2e89c2f2917f582e0/2022/11
+https://github.com/clearvector/lambda-spy
 https://github.com/cloudflare/cloudflared
 https://github.com/cloudflare/cloudflared/releases
 https://github.com/codewhitesec/HandleKatz
@@ -1647,6 +1653,8 @@ https://github.com/topotam/PetitPotam
 https://github.com/topotam/PetitPotam/blob/d83ac8f2dd34654628c17490f99106eb128e7d1e/PetitPotam/PetitPotam.cpp
 https://github.com/trustedsec/SysmonCommunityGuide/blob/adcdfee20999f422b974c8d4149bf4c361237db7/chapters/file-stream-creation-hash.md
 https://github.com/Twigonometry/Cybersecurity-Notes/blob/c875b0f52df7d2c7a870e75e1f0c2679d417931d/Writeups/Hack%20the%20Box/Boxes/Optimum/10%20-%20Website.md
+https://github.com/TwoSevenOneT/EDR-Freeze
+https://github.com/TwoSevenOneT/EDR-Freeze/blob/a7f61030b36fbde89871f393488f7075d2aa89f6/EDR-Freeze.cpp#L53
 https://github.com/Tylous/ZipExec
 https://github.com/tyranid/DotNetToJScript
 https://github.com/usnistgov/macos_security/blob/932a51f3e819dd3e02ebfcf3ef433cfffafbe28b/rules/os/os_firmware_password_require.yaml
@@ -1791,6 +1799,7 @@ https://itconnect.uw.edu/tools-services-support/it-systems-infrastructure/msinf/
 https://jamesonhacking.blogspot.com/2020/12/pivoting-to-private-aws-s3-buckets.html
 https://jasonmull.com/articles/offensive/2025-05-12-windows-crash-dumps-offensive-security/
 https://jdhnet.wordpress.com/2017/12/19/changing-the-location-of-the-windows-event-logs/
+https://jgspiers.com/audit-group-policy-changes/
 https://jonconwayuk.wordpress.com/2014/01/31/wmic-csproduct-using-wmi-to-identify-make-and-model-of-hardware/
 https://jpcertcc.github.io/ToolAnalysisResultSheet
 https://jpcertcc.github.io/ToolAnalysisResultSheet/details/nltest.htm
@@ -2068,6 +2077,7 @@ https://learn.microsoft.com/en-us/windows-hardware/design/device-experiences/pow
 https://learn.microsoft.com/en-us/windows-hardware/drivers/devtest/dtrace
 https://learn.microsoft.com/en-us/windows-hardware/drivers/devtest/pnputil-command-syntax
 https://learn.microsoft.com/en-us/windows-hardware/drivers/taef/
+https://learn.microsoft.com/en-us/windows-hardware/manufacture/desktop/reagentc-command-line-options?view=windows-11
 https://learn.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse
 https://learn.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse?tabs=powershell
 https://learn.microsoft.com/en-us/windows-server/administration/server-core/server-core-sconfig#powershell-is-the-default-shell-on-server-core
@@ -2348,6 +2358,7 @@ https://medium.com/@malwaredancer/lockergoga-input-arguments-ipc-communication-a
 https://medium.com/@markmotig/some-ways-to-dump-lsass-exe-c4a75fdc49bf
 https://medium.com/@mvelazco/hunting-for-samaccountname-spoofing-cve-2021-42287-and-domain-controller-impersonation-f704513c8a45
 https://medium.com/@networksecurity/rdp-hijacking-how-to-hijack-rds-and-remoteapp-sessions-transparently-to-move-through-an-da2a1e73a5f6
+https://medium.com/@ninnesoturan/detecting-ipv6-dns-takeover-a54a6a88be1f
 https://medium.com/@NullByteWht/hacking-macos-how-to-dump-1password-keepassx-lastpass-passwords-in-plaintext-723c5b1c311b
 https://medium.com/@olafhartong/cobalt-strike-remote-threads-detection-206372d11d0f
 https://medium.com/@olafhartong/sysmon-14-0-fileblockexecutable-13d7ba3dff3e
@@ -2630,6 +2641,7 @@ https://research.splunk.com/cloud/c783dd98-c703-4252-9e8a-f19d9f5c949e/
 https://research.splunk.com/cloud/e155876a-6048-11eb-ae93-0242ac130002/
 https://research.splunk.com/endpoint/07921114-6db4-4e2e-ae58-3ea8a52ae93f/
 https://research.splunk.com/endpoint/10399c1e-f51e-11eb-b920-acde48001122/
+https://research.splunk.com/endpoint/7215831c-8252-4ae3-8d43-db588e82f952
 https://research.splunk.com/endpoint/linux_doas_conf_file_creation/
 https://research.splunk.com/endpoint/linux_doas_tool_execution/
 https://research.splunk.com/endpoint/windows_possible_credential_dumping/
@@ -2747,6 +2759,7 @@ https://ss64.com/nt/mklink.html
 https://ss64.com/nt/net-service.html
 https://ss64.com/nt/netsh.html
 https://ss64.com/nt/regsvr32.html
+https://ss64.com/nt/set.html
 https://ss64.com/nt/shell.html
 https://ss64.com/nt/syntax-redirection.html
 https://ss64.com/osx/csrutil.html
@@ -2922,6 +2935,7 @@ https://tria.ge/211119-gs7rtshcfr/behavioral2 [Lokibot sample from Nov 2021]
 https://tria.ge/220422-1nnmyagdf2/
 https://tria.ge/220422-1pw1pscfdl/
 https://tria.ge/231004-tp8k6sch9t/behavioral2
+https://tria.ge/231212-r1bpgaefar/behavioral2
 https://tria.ge/240123-rapteaahhr/behavioral1
 https://tria.ge/240225-jlylpafb24/behavioral1/analog?main_event=Registry&op=SetValueKeyInt
 https://tria.ge/240226-fhbe7sdc39/behavioral1
@@ -3749,6 +3763,7 @@ https://www.ired.team/offensive-security/credential-access-and-credential-dumpin
 https://www.ired.team/offensive-security/defense-evasion/parent-process-id-ppid-spoofing
 https://www.ired.team/offensive-security/lateral-movement/t1076-rdp-hijacking-for-lateral-movement
 https://www.ired.team/offensive-security/persistence/t1128-netsh-helper-dll
+https://www.joesandbox.com/analysis/1467354/0/html
 https://www.joesandbox.com/analysis/411752/0/html#7048BB9A06B8F2DD9D24C77F389D7B2B58D2
 https://www.joesandbox.com/analysis/443736/0/html
 https://www.joesandbox.com/analysis/465533/0/html
@@ -3836,6 +3851,7 @@ https://www.microsoft.com/en-us/security/blog/2024/01/17/new-ttps-observed-in-mi
 https://www.microsoft.com/en-us/security/blog/2024/04/22/analyzing-forest-blizzards-custom-post-compromise-tool-for-exploiting-cve-2022-38028-to-obtain-credentials/
 https://www.microsoft.com/en-us/security/blog/2024/07/29/ransomware-operators-exploit-esxi-hypervisor-vulnerability-for-mass-encryption/
 https://www.microsoft.com/en-us/security/blog/2024/10/29/midnight-blizzard-conducts-large-scale-spear-phishing-campaign-using-rdp-files/
+https://www.microsoft.com/en-us/security/blog/2025/10/06/investigating-active-exploitation-of-cve-2025-10035-goanywhere-managed-file-transfer-vulnerability/
 https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2023/03/Figure-7-sample-webdav-process-create-event.png
 https://www.microsoft.com/en-us/wdsi/threats/malware-encyclopedia-description?name=TrojanSpy%3aMSIL%2fHakey.A
 https://www.microsoft.com/security/blog/2017/10/23/windows-defender-exploit-guard-reduce-the-attack-surface-against-next-generation-malware/
@@ -4024,6 +4040,7 @@ https://www.tenforums.com/tutorials/123792-turn-off-tamper-protection-microsoft-
 https://www.tenforums.com/tutorials/151318-how-enable-disable-dns-over-https-doh-microsoft-edge.html
 https://www.tenforums.com/tutorials/32236-enable-disable-microsoft-defender-pua-protection-windows-10-a.html
 https://www.thestack.technology/security-experts-call-for-incident-response-exercises-after-mass-cisco-device-exploitation/
+https://www.threatdown.com/blog/clipboard-hijacker-tries-to-install-a-trojan/
 https://www.trellix.com/en-sg/about/newsroom/stories/threat-labs/lockergoga-ransomware-family-used-in-targeted-attacks.html
 https://www.trellix.com/en-us/about/newsroom/stories/research/beyond-file-search-a-novel-method.html
 https://www.trendmicro.com/content/dam/trendmicro/global/en/research/22/h/ransomware-actor-abuses-genshin-impact-anti-cheat-driver-to-kill-antivirus/Genshin%20Impact%20Figure%2010.jpg
@@ -4185,6 +4202,7 @@ https://www.virustotal.com/gui/file/d72af640b71b8e3eca3eba660dd7c7f029ff8852bcac
 https://www.virustotal.com/gui/file/d9669f7e3eb3a9cdf6a750eeb2ba303b5ae148a43e36546896f1d1801e912466
 https://www.virustotal.com/gui/file/ded20df574b843aaa3c8e977c2040e1498ae17c12924a19868df5b12dee6dfdd
 https://www.virustotal.com/gui/file/e841675a4b82250c75273ebf0861245f80c6a1c3d5803c2d995d9d3b18d5c4b5/detection
+https://www.virustotal.com/gui/file/e96a0c1bc5f720d7f0a53f72e5bb424163c943c24a437b1065957a79f5872675
 https://www.virustotal.com/gui/file/fa71eee906a7849ba3f4bab74edb577bd1f1f8397ca428591b4a9872ce1f1e9b/behavior
 https://www.virustotal.com/gui/file/fab408536aa37c4abc8be97ab9c1f86cb33b63923d423fdc2859eb9d63fa8ea0/community
 https://www.virustotal.com/gui/file/fc614fb4bda24ae8ca2c44e812d12c0fab6dd7a097472a35dd12ded053ab8474
