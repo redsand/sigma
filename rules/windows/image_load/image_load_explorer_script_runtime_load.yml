@@ -9,6 +9,7 @@ description: |
     Explorer has no reason to host script objects. This happens when a COM or TypeLib hijack makes Explorer run a ".sct" scriptlet, which then typically calls WScript.Shell to start the payload.
 references:
     - https://cicada-8.medium.com/hijack-the-typelib-new-com-persistence-technique-32ae1d284661
+    - https://reliaquest.com/blog/threat-spotlight-hijacked-and-hidden-new-backdoor-and-persistence-technique/
 author: Tim Shelton (HAWK.io)
 date: 2026-10-13
 tags:
